@@ -9,3 +9,9 @@
 [DBservers]
 172.31.83.82
 172.31.26.211
+
+
+
+[mywebservers:vars]
+mywebserverpackonubantu=apache2222222
+mywebserverpackonredhat=httpd
